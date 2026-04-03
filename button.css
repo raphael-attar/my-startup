@@ -1,0 +1,17 @@
+.btn-wimbledon {
+  background: #0b6b3a; /* vert Wimbledon */
+  color: white;
+  padding: 12px 22px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  transition: all 0.3s ease;
+  border: 2px solid #0b6b3a;
+}
+
+.btn-wimbledon:hover {
+  background: white;
+  color: #0b6b3a;
+  transform: scale(1.05);
+}
